@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6396559b-9d9d-4615-b8c0-b73b1d24baa0)
-
 dependencyResolutionManagement {
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 		repositories {
@@ -11,6 +9,10 @@ dependencyResolutionManagement {
  dependencies {
 	        implementation 'com.github.2318279444:GetAddress:Tag'
 	}
+
+
+![image](https://github.com/user-attachments/assets/6396559b-9d9d-4615-b8c0-b73b1d24baa0)
+
 
  ![image](https://github.com/user-attachments/assets/68f32ffe-38b6-45b2-b452-9491775aa8f7)
 
