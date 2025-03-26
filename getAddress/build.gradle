@@ -26,6 +26,9 @@ android {
     }
 }
 
+// 设置 JitPack 所需的信息
+group 'com.github.dxc'
+version '1.0.1' // 设置 Gradle 构建版本号
 dependencies {
 
     implementation libs.appcompat
